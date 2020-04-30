@@ -13,7 +13,7 @@ create table users(
 );
 
 insert users values(18226,"Sameer Patel",22,"pucsd","DS");
-insert users values(18106,"Ketan Choudhary",23,"MATHS","AI")
+insert users values(18106,"Ketan Choudhary",23,"MATHS","AI");
 insert users values(18107, "Aniket Chavan", 28, "PUSCD", "OS");
 insert users values(18208, "Bhavesh Nandurikar", 23, "Math", "TCS");
 insert users values(18158, "Shubham Natekar", 22, "Stat", "DBMS");
